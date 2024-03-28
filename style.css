@@ -1482,7 +1482,19 @@ width: 52%;
     
 } */
 
-#items #conr h6 a{
+#main
+{
+    pointer-events: all;
+    
+}
+
+
+#items #co#page1
+{
+    pointer-events: all;
+    
+}
+ h6 a{
     color: white;
     text-decoration: none;
     font-size: 7vw;
