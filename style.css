@@ -169,7 +169,7 @@ display: none;
 }
 #items
 {
-    height: 80vw;
+    height: 70vw;
     width: 100%;
     background-color: blueviolet;
     position: absolute;
@@ -1425,7 +1425,7 @@ width: 52%;
 }
 #items
 {
-    height: 80vw;
+    height: 90vw;
     width: 100%;
     background-color:black;
     opacity: 0.9;
