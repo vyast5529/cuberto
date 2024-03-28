@@ -1065,7 +1065,7 @@ width: 52%;
         }
         #page3
         {
-            height: 120vh;
+            height: 100vh;
             width: 100vw;
             position: relative;
             top: 20vh;
@@ -1111,7 +1111,7 @@ width: 52%;
         }
         .cti
         {
-            height: 60vh;
+            height: 70vh;
         width: 100%;
        
        
@@ -1120,6 +1120,8 @@ width: 52%;
         overflow-y: hidden;
         overflow-x: scroll;
         z-index: 100;
+        position: relative;
+        bottom: 20vw;
        
     
         }
