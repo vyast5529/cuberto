@@ -1127,12 +1127,13 @@ width: 52%;
         }
         #slides
     {
-        height: 25vh;
+        height: 70vw;
     width: 300%;
    
     display: flex;
     align-items: center;
     justify-content: space-evenly;
+    background-color: blue;
     
    
    
@@ -1188,11 +1189,11 @@ width: 52%;
    
     }
     #slides .slide .tag h2{
-        color: black;font-size: 6vw;
+        color: black;font-size: 5vw;
         
         font-family: f1;
     }#slides .slide .tag h3{
-        color: black;font-size: 4vw;
+        color: black;font-size: 3vw;
        font-family: f1;
 
     }
